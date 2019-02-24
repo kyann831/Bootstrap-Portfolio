@@ -1,3 +1,7 @@
 html {
     background-image: url('Beach-background.jpg');
 }
+
+#contact-form {
+    padding: 20px;
+}

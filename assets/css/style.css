@@ -26,6 +26,22 @@ color: white;}
     color: white;
     text-align: center;
   }
+.container {
+    padding-top: 10px;
+    margin-right: 40px:
+}
+.card-1 {
+    margin-left: 50px;
+    margin-top: 4px;
+}
+
+h3 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eeeeee;
+  }
+
 
   
 

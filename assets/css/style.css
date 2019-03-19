@@ -28,7 +28,7 @@ color: white;}
   }
 .container {
     padding-top: 10px;
-    margin-right: 40px:
+    margin-right: 40px;
 }
 .card-1 {
     margin-left: 50px;
@@ -41,7 +41,9 @@ h3 {
     line-height: 22px;
     border-bottom: 2px solid #eeeeee;
   }
-
+h2 {
+    color: white;
+}
 
   
 

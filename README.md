@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-2nd Homework
+This is a gallery of my current coding work.
